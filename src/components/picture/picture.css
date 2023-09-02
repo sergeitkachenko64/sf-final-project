@@ -1,0 +1,16 @@
+.picture {
+	/* Включить/выключить отображение */
+	/* display: none; */
+
+	padding-bottom: 5.05%;
+}
+
+.wrapper {
+	width: inherit;
+	height: 100%;
+}
+
+.picture__img {
+	width: 100%;
+	height: auto;
+}
